@@ -25,9 +25,6 @@
 
 ## About
 
-⭐ **Checkout the live demo of the application [here](https://example.minimal-crm.refine.dev).**
-
-The source code for the video tutorial of an enterprise-grade and production-ready internal tool example named "Real-Time CRM Dashboard" has been developed using [Refine](https://refine.dev/), [Ant Design](https://ant.design/), and [GraphQL](https://graphql.org/).
 
 Refine is an open-source React-meta framework specifically designed to meet the requirements of enterprise companies dev teams. It comes with a core package that simplifies app requirements like data handling, authentication, access control, etc.
 
@@ -37,11 +34,6 @@ Being production-ready, you can either build your own **B2B applications**, **in
 
 👉 You can find a more comprehensive CRM example [here](https://example.crm.refine.dev/).
 
-## Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube channel.
-
-<a href="https://youtu.be/6a3Dz8gwjdg" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## Tech Stack
 
@@ -1993,6 +1985,3 @@ export const UserTag = ({ user }: Props) => {
 
 </details>
 
-## Links
-
-Other components (Kanban Edit Forms, Skeletons and utilities) used in the project can be found [here](https://drive.google.com/drive/folders/1oDFoI-a8qSJqHde6doUtM9NCHlYpWdNW?usp=sharing)
